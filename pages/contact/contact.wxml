@@ -1,0 +1,53 @@
+<view class="contact">
+  <view class="contact-head">
+    <image src="../images/9.jpeg" class="image"></image>
+  </view>
+
+  <view class="empty-line"></view>
+
+  <view class="contact-body">
+    <view class="gongsi-jieshao">
+      <image src="../icon/form.jpg" class="formIcon"></image>
+      公司介绍
+    </view>
+    <view class="gongsi-content">
+      用心为新人打造一个美轮美奂的婚礼！专职婚礼人，为您的婚礼保驾护航。让你的婚礼真正做到省心，省时，省力，省钱！匠造经典，感动恒久！个性化服务：优质的婚礼顾问制服务，婚礼策划服务，铸就真正的高品质婚礼。经验丰富的策划师、灵动的策划创意、惟妙惟肖的手绘设计，赋予您更多的婚礼期待。
+    </view>
+    <view class="">
+      <image src="../images/10.jpeg" class="image"></image>
+    </view>
+  </view>
+
+  <view class="empty-line"></view>
+
+  <view class="contact-footer">
+    <view>
+      <image src="../icon/form.jpg" class="formIcon"></image>
+      联系我们
+    </view>
+    <view class="lianxi-content">
+      <view class="lianxi-name">
+        <image src="../icon/mingpian.png" class="mingpian"></image>
+        周某某
+      </view>
+      <view class="lianxi-job">
+        婚礼策划
+      </view>
+      <view class="lianxi-tel">
+        13888888888
+      </view>
+    </view>
+    <view class="lianxi-content">
+      <view class="lianxi-name">
+        <image src="../icon/mingpian.png" class="mingpian"></image>
+        王某某
+      </view>
+      <view class="lianxi-job">
+        婚礼助手
+      </view>
+      <view class="lianxi-tel">
+        15888888888
+      </view>
+    </view>
+  </view>
+</view>

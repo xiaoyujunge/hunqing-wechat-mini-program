@@ -1,0 +1,108 @@
+<view class="case">
+  <view class="case-header">
+    <image src="../icon/form.jpg" class= "formIcon"></image>
+    案例展示
+  </view>
+  <view class="case-body">
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/4.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/5.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/6.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/7.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/8.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/4.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/5.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/6.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/7.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+    <view class="view-case" bindtap="caseClick">
+      <view class="view-case-left">
+        <view class="view-case-left-name">盛世礼仪 | 绝美</view>
+        <view class="view-case-left-date">2021-08-01</view>
+      </view>
+      <view class="view-case-right">
+        <image src="../images/8.jpg" class="image"></image>
+      </view>
+    </view>
+    <view class="empty-line"></view>
+  </view>
+</view>

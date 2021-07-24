@@ -1,0 +1,38 @@
+<view class="appoint">
+  <view>
+    <image src="../icon/form.jpg" class= "formIcon"></image>
+    表单模块
+  </view>
+  <form class="appointForm" catchsubmit="formSubmit">
+    <view class="view-input">
+      <view class="input_title">
+        <text class="text">*</text>
+        姓名：
+      </view>
+      <view>
+        <input placeholder-class="placeholder-class" class="input_text" placeholder="请输入姓名" />
+      </view>
+    </view>
+    <view class="view-input">
+      <view class="input_title">
+        <text class="text">*</text>
+        手机：
+      </view>
+      <view>
+        <input placeholder-class="placeholder-class" class="input_text" placeholder="请输入手机号码" />
+      </view>
+    </view>
+    <view class="view-textarea">
+      <view class="input_title">
+        <text class="text">*</text>
+        备注：
+      </view>
+      <view>
+        <textarea placeholder-class="textarea-placeholder-class" class="input_textarea" placeholder="请输入备注，不超过200字"/>
+      </view>
+    </view>
+    <view>
+      <button class="submitBtn" style="margin: 30rpx 0" type="warn" formType="submit">提交</button>
+    </view>
+  </form>
+</view>

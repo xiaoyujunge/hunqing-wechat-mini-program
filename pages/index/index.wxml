@@ -1,0 +1,21 @@
+<view class="header">
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+    <block wx:for="{{swiperImgUrls}}" class='header_swiper' wx:key="*this">
+      <swiper-item class='header_swiper'>
+        <image src="{{item}}" class="header_swiper" />
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+
+<view class="nav">
+  <block wx:for="{{photoUrl}}"  wx:key="*this">
+        <image src="{{item}}" />
+    </block>
+</view>
+
+<!-- <audio
+	 loop
+	 id="greetings"
+	 src="../music/zanmenjiehunba.mp3"
+	></audio> -->

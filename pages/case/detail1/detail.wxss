@@ -1,0 +1,26 @@
+.detail {
+  margin: 4% 4% 0 4%;
+}
+
+.detail-header {
+  width: 100%;
+}
+
+.detail-header-top {
+  font-size: 48rpx;
+}
+
+.detail-header-bottom {
+  font-size: 24rpx;
+  color: rgb(178, 178, 178);
+}
+
+.detail-body {
+  width: 100%;
+  margin-top: 20rpx;
+}
+
+.image {
+  width: 100%;
+  margin-top: 10rpx;
+}

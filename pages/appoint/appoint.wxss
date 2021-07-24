@@ -1,0 +1,55 @@
+.appoint {
+  margin: 4% 4% 0 4%;
+}
+
+.view-input {
+  width: 100%;
+}
+
+.formIcon {
+  width: 12rpx;
+  height: 30rpx;
+}
+
+.input_title {
+  margin: 3% 0;
+  font-size: 32rpx;
+}
+
+.text {
+  color: red;
+}
+
+.input_text {
+  height: 70rpx;
+  min-height: 70rpx;
+  padding-left: 50rpx;
+  background-color: rgb(247, 247, 247);
+}
+
+view-textarea {
+  margin-top: 5%;
+  width: 100%;
+}
+
+.input_textarea {
+  width: 100%;
+  padding-left: 50rpx;
+  background-color: rgb(247, 247, 247);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.placeholder-class {
+  font-size: 32rpx;
+  color: rgb(200, 200, 200);
+}
+
+.textarea-placeholder-class {
+  font-size: 32rpx;
+  color: rgb(200, 200, 200);
+}
+
+.submitBtn {
+  /* width: 100% !important; */
+}
